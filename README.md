@@ -10,3 +10,5 @@ Dans le cadre d'un projet universitaire, nous avons dû réaliser un site intern
 * Hugo Mahé
 
 
+
+![logo](https://upload.wikimedia.org/wikipedia/commons/f/f8/LOGO-ORIGINAL_WEB.jpg "Logo IUT Laval")
